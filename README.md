@@ -1,7 +1,7 @@
-# LNSM - Local Network Security Monitor
+# LNSM - Lightweight Network Security Monitor
 
 ## Abstract
-The Local Network Security Monitor (LNSM) is a lightweight, real-time Intrusion Detection System (IDS) and Network Traffic Analyzer designed specifically for local and edge environments. It captures, analyzes, and visualizes network telemetry to detect anomalous behavior, brute force attempts, UDP port scans, and potential data exfiltration events in real-time.
+The Lightweight Network Security Monitor (LNSM) is a lightweight, real-time Intrusion Detection System (IDS) and Network Traffic Analyzer designed specifically for local and edge environments. It captures, analyzes, and visualizes network telemetry to detect anomalous behavior, brute force attempts, UDP port scans, and potential data exfiltration events in real-time.
 
 ## System Architecture
 The application is built on a modular architecture to ensure separation of concerns and high performance during heavy network traffic analysis:
